@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer_scraping_cluster",
+  "version": "1.0.0",
+  "description": "extracting html content from dynamic webpages using puppeteer and puppeteer cluster libraries",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "proxy-chain": "^1.0.4",
+    "puppeteer": "^10.4.0",
+    "puppeteer-cluster": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "puppeteer-cluster",
+    "puppeteer",
+    "service",
+    "web",
+    "scraping",
+    "dynamic",
+    "web",
+    "pages"
+  ],
+  "author": "Durai Pandian",
+  "license": "ISC"
+}
